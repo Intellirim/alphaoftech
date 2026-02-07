@@ -1,0 +1,10 @@
+title: AlphaOfTech
+description: Daily Tech Intelligence — Automated insights from global tech communities and cutting-edge research
+baseurl: "/alphaoftech"
+url: "https://intellirim.github.io"
+theme: minima
+markdown: kramdown
+permalink: /:year/:month/:day/
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag

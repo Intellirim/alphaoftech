@@ -4,7 +4,7 @@ baseurl: "/alphaoftech"
 url: "https://intellirim.github.io"
 theme: minima
 markdown: kramdown
-permalink: /:year/:month/:day/
+permalink: /:year/:month/:day/:title/
 plugins:
   - jekyll-feed
   - jekyll-seo-tag

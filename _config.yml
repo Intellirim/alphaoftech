@@ -1,5 +1,5 @@
 title: AlphaOfTech
-description: Daily Tech Intelligence — Automated insights from global tech communities and cutting-edge research
+description: "Daily tech intelligence + weekly open-source tools — AI-powered insights from global dev communities and cutting-edge research"
 baseurl: "/alphaoftech"
 url: "https://intellirim.github.io"
 theme: minima
@@ -8,3 +8,12 @@ permalink: /:year/:month/:day/
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+# Social links (shown in footer by minima theme)
+twitter_username: false
+github_username: Intellirim
+
+minima:
+  social_links:
+    - { platform: github, user_url: "https://github.com/Intellirim" }
+    - { platform: telegram, user_url: "https://t.me/alphaoftech" }

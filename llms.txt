@@ -1,0 +1,39 @@
+# AlphaOfTech
+
+> Daily tech intelligence + weekly open-source tools. AI-powered insights from global dev communities and cutting-edge research.
+
+## About
+
+AlphaOfTech is an automated intelligence platform that analyzes 800+ tech stories, 7,000+ developer discussions, and 150+ research papers daily. It delivers actionable briefings for developers and founders.
+
+## What We Publish
+
+- **Daily Briefings**: Market signals, keyword trends, developer pain points, new products, and research highlights
+- **Weekly Tools**: Open-source tools built from real developer pain points (via AutoSolve)
+- **Product Reviews**: Analysis of InALign (AI agent governance), codex-router (multi-model routing), and more
+
+## Key Topics
+
+- AI/ML trends and tools
+- Developer experience and productivity
+- Open-source software
+- Startup ecosystem
+- Security and governance
+- Cloud infrastructure
+
+## Projects
+
+- [InALign](https://github.com/Intellirim/inalign) - AI Agent Governance Platform (MCP server for tamper-proof audit trails)
+- [codex-router](https://github.com/Intellirim/codex-router) - Intelligent routing for multi-model AI coding agents
+- [gha-debug](https://github.com/Intellirim/gha-debug) - GitHub Actions debugging tool
+
+## Content URLs
+
+- Blog: https://intellirim.github.io/alphaoftech/
+- Telegram: https://t.me/alphaoftech
+- Bluesky: https://bsky.app/profile/alphaoftech.bsky.social
+- GitHub: https://github.com/Intellirim
+
+## Contact
+
+hello@intellirim.com

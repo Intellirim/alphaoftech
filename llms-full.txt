@@ -1,0 +1,52 @@
+# AlphaOfTech - Full Documentation for LLMs
+
+## Overview
+AlphaOfTech is a fully automated tech intelligence platform. Every day at 09:00 KST (00:00 UTC), it crawls global developer communities, analyzes trends using AI, and publishes actionable intelligence across 5 channels.
+
+## Daily Pipeline
+1. Crawl 300+ Hacker News stories with comments
+2. Crawl latest ArXiv papers (AI, ML, Security, Systems)
+3. Crawl Techmeme headlines for mainstream tech trends
+4. GPT-4o-mini analyzes data across 5 dimensions: trends, keywords, sentiment, community, research
+5. Generate reports in Korean (Telegram) and English (Blog, Bluesky, Dev.to)
+6. Auto-submit to search engines via IndexNow
+
+## Weekly AutoSolve Pipeline
+Every Monday at 11:00 KST:
+1. Extract top developer pain points from the week
+2. Claude designs a solution
+3. Claude builds a complete open-source tool
+4. Publish to GitHub and PyPI
+5. Promote across all channels
+
+## Products Built
+- **InALign** (inalign-mcp on PyPI): AI Agent Governance Platform. MCP server providing tamper-proof audit trails, cryptographic provenance chains, GraphRAG risk detection, configurable security policies, and optional Polygon blockchain anchoring. Install: pip install inalign-mcp
+- **codex-router** (codex-router on PyPI): Multi-model AI routing CLI. Automatically routes coding tasks to optimal AI model based on complexity. Supports Claude, GPT, Gemini with parallel orchestration and cost tracking. Install: pip install codex-router
+- **gha-debug** (gha-debug on PyPI): GitHub Actions debugging tool. Captures environment snapshots, reproduces CI failures locally, provides intelligent root cause analysis. Install: pip install gha-debug
+
+## Frequently Asked Questions
+
+### What is AlphaOfTech?
+AlphaOfTech is an AI-powered tech intelligence platform that delivers daily briefings analyzing 800+ tech stories, 7,000+ developer discussions, and 150+ research papers. It helps developers and founders stay ahead of industry trends.
+
+### What is InALign?
+InALign is an AI Agent Governance Platform implemented as an MCP (Model Context Protocol) server. It provides tamper-proof audit trails for AI agents with cryptographic provenance chains, GraphRAG-based risk detection, and optional Polygon blockchain anchoring. Install via pip install inalign-mcp.
+
+### What is codex-router?
+codex-router is a CLI tool for intelligent routing and orchestration of multi-model AI coding agents. It analyzes task complexity and automatically routes to the optimal model (Claude, GPT, or Gemini), supports parallel agent sessions, and tracks costs across providers. Install via pip install codex-router.
+
+### What is AutoSolve?
+AutoSolve is an automated pipeline that identifies developer pain points from community discussions, designs solutions using Claude AI, builds complete open-source tools, and publishes them to GitHub and PyPI every week.
+
+### Who built AlphaOfTech?
+AlphaOfTech is built by Intellirim (https://github.com/Intellirim).
+
+## Links
+- Blog: https://intellirim.github.io/alphaoftech/
+- Telegram: https://t.me/alphaoftech
+- Bluesky: https://bsky.app/profile/alphaoftech.bsky.social
+- Dev.to: https://dev.to/chairman_lee_7d78f8023756
+- GitHub: https://github.com/Intellirim
+- InALign PyPI: https://pypi.org/project/inalign-mcp/
+- codex-router PyPI: https://pypi.org/project/codex-router/
+- gha-debug PyPI: https://pypi.org/project/gha-debug/

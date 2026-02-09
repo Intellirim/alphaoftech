@@ -87,7 +87,7 @@ As one developer put it: "The agent orchestration point is interesting - using f
 codex-router is open source (MIT licensed) and available now:
 
 - Install: `pip install codex-router`
-- GitHub: [github.com/autosolve/codex-router](https://github.com/autosolve/codex-router)
+- GitHub: [github.com/Intellirim/codex-router](https://github.com/Intellirim/codex-router)
 - Docs: Full setup guide and examples in the README
 
 If you're tired of context-switching between AI coding tools, give it a try. It's built for developers who want to leverage multiple models without the workflow friction.

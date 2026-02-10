@@ -350,7 +350,8 @@ body {
 
 /* ─── Hide RSS subscribe link ─── */
 
-.feed-subscribe {
+.feed-subscribe,
+.rss-subscribe {
   display: none;
 }
 

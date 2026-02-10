@@ -1,23 +1,25 @@
 title: AlphaOfTech
-description: "Daily tech intelligence + weekly open-source tools -- AI-powered insights from global dev communities and cutting-edge research"
+description: "Daily Tech Intelligence — Signals, trends, and opportunities from global developer communities and cutting-edge research."
 baseurl: "/alphaoftech"
 url: "https://intellirim.github.io"
 theme: minima
 markdown: kramdown
 permalink: /:year/:month/:day/:title/
+show_excerpts: true
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
 
-twitter_username: false
 github_username: Intellirim
 
 minima:
   social_links:
     - { platform: github, user_url: "https://github.com/Intellirim" }
     - { platform: telegram, user_url: "https://t.me/alphaoftech" }
-    - { platform: bluesky, user_url: "https://bsky.app/profile/alphaoftech.bsky.social" }
+
+header_pages:
+  - about.md
 
 # SEO + AEO/GEO
 lang: en

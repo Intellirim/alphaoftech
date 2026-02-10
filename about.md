@@ -4,41 +4,20 @@ title: About
 permalink: /about/
 ---
 
-## What is AlphaOfTech?
+AlphaOfTech is an automated tech intelligence service. Every day, our pipeline analyzes 800+ stories, 7,000+ developer discussions, and 150+ research papers — then distills them into one actionable briefing.
 
-AlphaOfTech is an AI-powered intelligence platform that helps developers and founders stay ahead of the curve.
+Every week, we go further: identify the biggest developer pain points from real community discussions, then design and ship a production-ready open-source tool that solves it.
 
-### Daily Tech Intelligence
+**What we cover:** AI, infrastructure, security, open source, SaaS, developer tools, and emerging research.
 
-Every day, our automated pipeline:
-- Crawls **800+ tech stories** and **7,000+ developer discussions** from global communities
-- Analyzes **150+ latest research papers** across AI, ML, Security, and Systems
-- Extracts key signals, emerging trends, and market opportunities
-- Delivers concise, actionable intelligence briefings
+**How it works:** Data collection from global tech communities and academic repositories, followed by multi-layered AI analysis — trend detection, sentiment analysis, keyword extraction, and research synthesis.
 
-### Weekly Open-Source Tools
-
-Every week, we go one step further:
-- Identify the **biggest developer pain points** from real community discussions
-- Design and build a **production-ready open-source tool** that solves it
-- Publish it on GitHub for anyone to use
-
-This is not vaporware — each tool is auto-generated, validated, and shipped with working code.
-
-### The Growth Loop
-
-**Read insights → Discover tools → Build faster → Come back for more.**
-
-We believe the best way to grow is to consistently deliver real value — both knowledge and code.
-
----
-
-### Follow Us
-
-- [Telegram Channel](https://t.me/alphaoftech) — Daily intelligence reports
-- [Bluesky](https://bsky.app/profile/alphaoftech.bsky.social) — Threads & analysis
-- [GitHub](https://github.com/Intellirim) — Open-source tools & code
-- [Blog](https://intellirim.github.io/alphaoftech/) — In-depth editorials
+**Where to follow:**
+- [Daily Briefing](https://intellirim.github.io/alphaoftech/) — full analysis
+- [Bluesky](https://bsky.app/profile/alphaoftech.bsky.social) — daily highlights
+- [Telegram](https://t.me/alphaoftech) — channel updates
+- [GitHub](https://github.com/Intellirim) — open-source tools
+- [Dev.to](https://dev.to/chairman_lee_7d78f8023756) — cross-posts
 
 ---
 

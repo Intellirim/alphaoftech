@@ -14,6 +14,7 @@ Every week, we go further: identify the biggest developer pain points from real 
 
 **Where to follow:**
 - [Daily Briefing](https://intellirim.github.io/alphaoftech/) — full analysis
+- [X / Twitter](https://x.com/alphaoftech) — daily highlights
 - [Bluesky](https://bsky.app/profile/alphaoftech.bsky.social) — daily highlights
 - [Telegram](https://t.me/alphaoftech) — channel updates
 - [GitHub](https://github.com/Intellirim) — open-source tools

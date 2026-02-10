@@ -348,6 +348,12 @@ body {
   }
 }
 
+/* ─── Hide RSS subscribe link ─── */
+
+.feed-subscribe {
+  display: none;
+}
+
 /* ─── Footer — Journal style ─── */
 
 .site-footer {
